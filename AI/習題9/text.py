@@ -1,3 +1,4 @@
+#一開始看蔡松宏的，然後後來問gpt，看得懂怎麼做的
 import os
 from groq import Groq
 

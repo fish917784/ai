@@ -1,3 +1,4 @@
+#借鑑李易的答案，還是不懂
 from micrograd.engine import Value
 import random
 
