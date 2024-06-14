@@ -1,3 +1,4 @@
+#用Grop API 製作的ai聊天機器人，9成都是網路的範例，還有利用chatgpt,目前想加入記憶功能，但還沒做出來，不知道交作業前做不做得出來
 import os
 
 from langchain.chains import LLMChain
